@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
 
         R.xml.number_pad_en to "English",
         R.xml.number_pad_uk to "Українська",
-        R.xml.number_pad_ru to "Русский"
+        R.xml.number_pad_ru to "Русский",
+        R.xml.number_pad_iw to "עברית"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
